@@ -191,7 +191,7 @@ def on_message(update, context):
 
 # create bot with BotFather , add your token.
 
-TOKEN = "5331416441:AAHReoROpXol-tbmdTjV_EpjtZuwgmklr-4"
+TOKEN = "Add Your Token"
 bot = telegram.Bot(token=TOKEN)
 
 updater = Updater(TOKEN, use_context=True)
